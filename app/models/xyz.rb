@@ -1,3 +1,3 @@
-class Xyz 
+class Xyz < ActiveRecord::Base
   
 end
